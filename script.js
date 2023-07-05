@@ -6,7 +6,7 @@ const jayArray = [
   "rietzke",
   2040 - 2000,
   "FSWD",
-  ["mike", "pete", "steve"],
+  ["mike", "pete", "steven"],
 ];
 console.log(jayArray);
 // 2nd time using curly = code block, and also now a new object
