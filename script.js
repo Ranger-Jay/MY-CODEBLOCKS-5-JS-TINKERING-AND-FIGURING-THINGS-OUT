@@ -18,7 +18,7 @@ const jay = {
   job: "FSWD",
   friends: ["mike", "pete", "steve"],
 };
-// this object which is called jay has 5 properties, which are kay-value pairs
+// this object which is called jay has 5 properties, which are kay-value pairs.
 // ARRAYS NEED ORDER NUMBER.
 // OBJECTS ARE FOR UNSTRUCTURED DATA THAT WE DON'T NEED AN ORDER FOR, WE NEED THE KEYS
 console.log(jay);
